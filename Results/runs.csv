@@ -1,0 +1,13 @@
+tag,method,scenario,rows,cols,physics_rate,file,ticks
+baseline,Baseline,push,200,180,1000,baseline_push_200x180.csv,1299
+baseline,Baseline,push,800,360,1000,baseline_push_800x360.csv,1298
+baseline,Baseline,groove,200,180,1000,baseline_groove_200x180.csv,5296
+baseline,Baseline,groove,400,360,1000,baseline_groove_400x360.csv,5296
+baseline,Baseline,groove,800,360,1000,baseline_groove_800x360.csv,5298
+baseline,Baseline,groove,1600,720,1000,baseline_groove_1600x720.csv,3389
+method2,Method 2,push,200,180,250,method2_push_200x180.csv,1299
+method2,Method 2,push,800,360,250,method2_push_800x360.csv,1299
+method2,Method 2,groove,200,180,250,method2_groove_200x180.csv,5300
+method2,Method 2,groove,400,360,250,method2_groove_400x360.csv,5300
+method2,Method 2,groove,800,360,250,method2_groove_800x360.csv,5300
+method2,Method 2,groove,1600,720,250,method2_groove_1600x720.csv,5300

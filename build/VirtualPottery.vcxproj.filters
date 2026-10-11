@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Core_Data_Structures\VirtualPottery.cpp">
+      <Filter>Core_Data_Structures</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\HapticDeviceController.cpp">
+      <Filter>Haptic_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\CollisionDetector.cpp">
+      <Filter>Haptic_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\CollisionResponder.cpp">
+      <Filter>Haptic_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\LocalForceModel.cpp">
+      <Filter>Haptic_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Graphic_Thread\GraphicSynchronizer.cpp">
+      <Filter>Graphic_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Graphic_Thread\VisualizePottery.cpp">
+      <Filter>Graphic_Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Evaluation\Benchmark.cpp">
+      <Filter>Evaluation</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Core_Data_Structures\CircularSectorElement.h">
+      <Filter>Core_Data_Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Core_Data_Structures\MethodConfig.h">
+      <Filter>Core_Data_Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Core_Data_Structures\VirtualPottery.h">
+      <Filter>Core_Data_Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\HapticDeviceController.h">
+      <Filter>Haptic_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\CollisionDetector.h">
+      <Filter>Haptic_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\CollisionResponder.h">
+      <Filter>Haptic_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Haptic_Thread\LocalForceModel.h">
+      <Filter>Haptic_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Graphic_Thread\GraphicSynchronizer.h">
+      <Filter>Graphic_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Graphic_Thread\VisualizePottery.h">
+      <Filter>Graphic_Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Evaluation\Benchmark.h">
+      <Filter>Evaluation</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Graphic_Thread\Shaders\pottery.vert">
+      <Filter>Graphic_Thread\Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Admin\Desktop\Project\pottery\VirtualPottery_Project\Graphic_Thread\Shaders\pottery.frag">
+      <Filter>Graphic_Thread\Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Core_Data_Structures">
+      <UniqueIdentifier>{F94E6FCD-0403-3FCB-9D53-DD9635D3DA4B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Evaluation">
+      <UniqueIdentifier>{E92DF747-E203-3E90-B8C5-EF0867907DCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic_Thread">
+      <UniqueIdentifier>{08892894-A7B9-3E5F-8B2C-FED902029959}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic_Thread\Shaders">
+      <UniqueIdentifier>{68313B79-AAF6-3230-8044-2A7CE7AE7DBE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Haptic_Thread">
+      <UniqueIdentifier>{AF604783-70F3-3F14-BBD4-34FE9ED01458}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0F54515C-5967-3EEB-AA06-A94329D33BB7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

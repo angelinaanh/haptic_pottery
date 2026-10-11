@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Project/pottery/VirtualPottery_Project/build/CMakeFiles/VirtualPottery.dir
+C:/Users/Admin/Desktop/Project/pottery/VirtualPottery_Project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Desktop/Project/pottery/VirtualPottery_Project/build/CMakeFiles/ZERO_CHECK.dir
